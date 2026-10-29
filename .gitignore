@@ -1,0 +1,17 @@
+bin/
+.env
+.env.local
+*.log
+*.sqlite
+*.db
+.DS_Store
+vendor/
+coverage.out
+*.exe
+*.exe~
+*.test
+/build/
+/node_modules/
+.idea/
+.vscode/
+*.swp
